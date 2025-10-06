@@ -1,6 +1,4 @@
-package java_practice;
-
-import java.util.Arrays;
+package java_practice.leetcode;
 
 //https://leetcode.com/problems/valid-palindrome/description/
 public class LeetCode125 {

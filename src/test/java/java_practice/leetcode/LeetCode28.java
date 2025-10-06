@@ -1,4 +1,4 @@
-package java_practice;
+package java_practice.leetcode;
 
 //https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 
@@ -15,6 +15,7 @@ package java_practice;
  * //Output: -1
  * //Explanation: "leeto" did not occur in "leetcode", so we return -1
  */
+//TODO: Прорешать повторно через цикл
 public class LeetCode28 {
     public static void main(String[] args) {
 //        System.out.println("Should be 0, but = " + strStr("sadbutsad", "sad")); //0
