@@ -38,3 +38,7 @@ SQL
 
 Java
 - https://leetcode.com/problems/move-zeroes/
+
+Тест-Дизайн
+- https://petstore.swagger.io/#/
+  - Добавлены кейсы на методы POST/GET/DELETE by petId
