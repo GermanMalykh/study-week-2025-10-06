@@ -31,3 +31,10 @@
 На 08.10.2025
 - Теория тестирования (Назина): глава про **классы эквивалентности/границы**.
 - Зафиксировать конспект в `notes/nazina_day1.md`.
+
+09.10.2025
+SQL
+- https://leetcode.com/problems/delete-duplicate-emails/
+
+Java
+- https://leetcode.com/problems/move-zeroes/
