@@ -42,3 +42,30 @@ Java
 Тест-Дизайн
 - https://petstore.swagger.io/#/
   - Добавлены кейсы на методы POST/GET/DELETE by petId
+
+10.10.2025
+- Добавлены задачи NoBugs от Alex Pshe
+
+11.10.2025
+
+SQL
+ - https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/
+ - https://leetcode.com/problems/big-countries/submissions/
+
+12.10.2025
+- JavaRush:<br>
+  <b>(ООП — типичные ошибки и best practices)</b>
+    - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level23.lecture01
+    - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level23.lecture02
+    - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level23.lecture03
+    - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level23.lecture04
+    - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level23.lecture05<br>
+<b>(Продвинутая работа с исключениями)</b>
+    - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level24.lecture01
+    - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level24.lecture02
+
+На 13.10.2025<br>
+<b>(Продвинутая работа с исключениями)</b>
+  - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level24.lecture03
+  - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level24.lecture04
+  - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level24.lecture05
