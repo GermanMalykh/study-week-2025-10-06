@@ -81,3 +81,12 @@ LeetCode Java
 - https://rutube.ru/video/8af6e469bdbd478c01e2cabf18dea81c/
 
 14.10.2025
+
+- JavaRush
+
+<b>GIT</b>
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level25.lecture01
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level25.lecture02
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level25.lecture03
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level25.lecture04
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level25.lecture05
