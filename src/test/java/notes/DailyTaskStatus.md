@@ -90,3 +90,14 @@ LeetCode Java
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level25.lecture03
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level25.lecture04
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level25.lecture05
+
+19.10.2025
+
+- JavaRush
+
+<b>Коллекции и Generics</b>
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture01
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture02
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture03
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture04
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture05
