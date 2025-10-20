@@ -93,7 +93,7 @@ LeetCode Java
 
 19.10.2025
 
-- JavaRush
+**JavaRush**
 
 <b>Коллекции и Generics</b>
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture01
@@ -101,3 +101,19 @@ LeetCode Java
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture03
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture04
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level26.lecture05
+
+20.10.2025
+
+**JavaRush**
+
+<b>Интерфейсы коллекций</b>
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level27.lecture01
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level27.lecture02
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level27.lecture03
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level27.lecture04
+- https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level27.lecture05
+
+
+**NoBugs**
+
+- Добавлен пример решения парсинга json из задач на собеседовании

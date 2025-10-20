@@ -1,0 +1,25 @@
+{
+  "shelter": {
+    "name": "Happy Tails",
+    "city": "Budapest",
+    "rooms": [
+      {
+        "id": "A1",
+        "caretaker": {"name": "Lena", "shift": "day"},
+        "animals": [
+          {"type": "dog", "id": 101, "name": "Rex",   "breed": "Beagle", "ageYears": 4},
+          {"type": "dog", "id": 102, "name": "Mika",  "breed": "Corgi",  "ageYears": 2},
+          {"type": "cat", "id": 201, "name": "Milo",  "color": "black",  "ageYears": 1}
+        ]
+      },
+      {
+        "id": "B2",
+        "caretaker": {"name": "Tom", "shift": "night"},
+        "animals": [
+          {"type": "dog", "id": 103, "name": "Luna",  "breed": "Corgi",  "ageYears": 1},
+          {"type": "dog", "id": 104, "name": "Bobby", "breed": "Beagle", "ageYears": 2}
+        ]
+      }
+    ]
+  }
+}

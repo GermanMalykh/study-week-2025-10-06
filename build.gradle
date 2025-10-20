@@ -16,6 +16,7 @@ dependencies {
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
     implementation("io.github.pavelicii:allpairs4j:1.0.1")
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.20.0'
 }
 
 test {
