@@ -146,3 +146,9 @@ LeetCode Java
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level28.lecture03
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level28.lecture04
 - https://javarush.com/quests/lectures/ru.javarush.java.core.lecture.level28.lecture05
+
+
+**LeetCode SQL**
+
+- https://leetcode.com/problems/project-employees-i/description/
+- https://leetcode.com/problems/sales-analysis-iii/description/
